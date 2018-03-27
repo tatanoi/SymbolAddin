@@ -1,0 +1,7 @@
+False
+7285579a-13dd-43f1-8d41-ae530b605ae5d0c1dc6c-ed08-4cb6-85e5-6162d0cce85e
+{35a9d054-c455-443f-be4c-61ecab823e4e}{d52e9fa4-0e10-446e-ab24-b9565d9c44c9}
+{e03a40ee-5ab4-4cd1-9255-55ed77635d5a}
+1.0.0.0
+WordWebAddIn
+_layouts/15/

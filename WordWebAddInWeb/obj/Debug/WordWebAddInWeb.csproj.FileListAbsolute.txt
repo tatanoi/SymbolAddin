@@ -1,0 +1,9 @@
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\bin\WordWebAddInWeb.dll.config
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\bin\WordWebAddInWeb.dll
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\bin\WordWebAddInWeb.pdb
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.dll
+C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.pdb

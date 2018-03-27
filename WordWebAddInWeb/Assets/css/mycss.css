@@ -1,0 +1,213 @@
+.navbar-icon {
+    height: 25px;
+    width: auto;
+}
+
+.navbar-icon:hover {
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.padding-0 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.row-padding-top {
+    padding-top: 10px;
+}
+
+.navbar-padding {}
+
+.navbar-padding>li {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.symbol-container {
+    display: inline-block;
+    width: 12.5%;
+    padding: 10px;
+    min-width: 120px;
+}
+
+.symbol-area {
+    width: 100px;
+    height: 100px;
+    border-color: #D1D1D1;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0.5px;
+}
+
+.symbol-area>.symbol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 60%;
+}
+
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.symbol-area>.key {
+    border-width: 0.5px 0 0 0;
+    border-style: solid;
+    border-color: #D1D1D1;
+    margin: 0 2px 0 2px;
+    width: auto;
+    height: 40%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.vcenter:before {
+    content: " ";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.vcenter>div .vcenter>a .vcenter>img .vcenter>i {
+    display: inline-block;
+}
+
+.search-bar {
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: white;
+    border-style: none;
+    padding: 0;
+}
+
+.search-bar li {
+    display: inline-block;
+    color: white;
+    height: 35px;
+    width: 35px;
+    vertical-align: middle;
+}
+
+.search-bar li:nth-child(1) {
+    width: auto;
+}
+
+.search-bar input[type=text] {
+    width: 215px;
+    height: 35px;
+    border-radius: 5px 0 0 5px;
+    border-style: none;
+    padding: 0 10px 0 10px;   
+}
+
+.search-bar li:nth-child(2) {
+    width: 35px;
+    height: 35px;
+    border-radius: 0 5px 5px 0;
+    background-color: #B1ACAC;
+    text-color: white;
+}
+
+.search-bar li:nth-child(2):hover {
+    transition: 0.25s;
+    background-color: #828282;
+    cursor: pointer;
+}
+
+.test li {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+}
+
+@media (min-width: 700px) {
+    .navbar-expand-custom {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-flow: row nowrap;
+        flex-flow: row nowrap;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+    }
+
+    .navbar-expand-custom .custom-dropdown {
+        border-style: solid;
+        border-width: 0 0.1px 0 0;
+        border-color: #D1D1D1;
+    }
+
+    .navbar-expand-custom .navbar-nav {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+    }
+    .navbar-expand-custom .navbar-nav .dropdown-menu {
+        position: absolute;
+    }
+    .navbar-expand-custom .navbar-nav .dropdown-menu-right {
+        right: 0;
+        left: auto;
+    }
+    .navbar-expand-custom .navbar-nav .nav-link {
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+    }
+    .navbar-expand-custom>.container,
+    .navbar-expand-custom>.container-fluid {
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    }
+    .navbar-expand-custom .navbar-collapse {
+        display: -webkit-box !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+        -ms-flex-preferred-size: auto;
+        flex-basis: auto;
+    }
+    .navbar-expand-custom .navbar-toggler {
+        display: none;
+    }
+    .navbar-expand-custom .dropup .dropdown-menu {
+        top: auto;
+        bottom: 100%;
+    }
+}
+
+.my-button {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color:white;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 5%;
+    background-color: #1e66e6;
+    color: white;
+    width: 33.33%;
+    height: 30px;
+    transition: 0.5s;
+}
+
+.my-button:hover {
+    background-color: blueviolet;
+    transition: 0.5s;
+}
+
+.my-container {
+    padding: 0;
+    margin: 0;
+    border-style: none;
+    width:100%;
+}
