@@ -7,3 +7,12 @@ C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\obj\Debug\WordWebAddInWe
 C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.csproj.CoreCompileInputs.cache
 C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.dll
 C:\Users\Nam\Desktop\AddIn\WordWebAddIn\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.pdb
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\bin\WordWebAddInWeb.dll.config
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\bin\WordWebAddInWeb.dll
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\bin\WordWebAddInWeb.pdb
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.csprojResolveAssemblyReference.cache
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.csproj.CoreCompileInputs.cache
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.dll
+E:\Learning\Word Add-in\SymbolAddin\WordWebAddInWeb\obj\Debug\WordWebAddInWeb.pdb
